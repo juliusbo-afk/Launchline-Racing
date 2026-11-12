@@ -1,0 +1,9 @@
+{
+  "name": "launchline-racing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Multiplayer drag-racing reaction game",
+  "scripts": {"start":"node server.js", "test":"node test.js"},
+  "engines": {"node": ">=18"},
+  "dependencies": {"ws":"^8.18.3"}
+}
